@@ -1,0 +1,4 @@
+numeTabel:persoane
+id:1
+idelemente:0
+subtabeleCounter:1

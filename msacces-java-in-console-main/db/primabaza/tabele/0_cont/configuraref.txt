@@ -1,0 +1,4 @@
+numeTabel:cont
+id:0
+idelemente:13
+subtabeleCounter:2
